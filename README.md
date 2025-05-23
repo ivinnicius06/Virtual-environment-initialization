@@ -20,3 +20,5 @@
 
 9º python manage.py start todo_list
 
+# Segunda etapa
+
