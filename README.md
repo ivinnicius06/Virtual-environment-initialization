@@ -1,12 +1,13 @@
 # Virtual-environment-initialization
 ---------- Criar arquivo ------------
 
+# Setting up and activating the virtual environment
 1º python -m venv .venv
 2º .venv\Scripts\activate.bat
 3º py -m pip install Django
 4º django-admin startproject todoApp
 
------ Em um terminal duplicado ------
+# In a duplicated terminal
 **** Dentro do Arquivo inicial ******
 
 5º .venv\Scripts\activate.bat
@@ -20,5 +21,5 @@
 
 9º python manage.py start todo_list
 
-# Segunda etapa
+
 
