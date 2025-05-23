@@ -23,7 +23,9 @@
 8º python manage.py createsuperuser
 
 ******* Nome de usuário **************
+
 *******     Email       **************
+
 *******     Senha       **************
 
 9º python manage.py start todo_list
